@@ -1,0 +1,21 @@
+.images{
+    height: 200px;
+    width: 200px;
+    border-radius: 7px;
+    margin: 7px;
+}
+
+.instructions {
+    background-color: aquamarine;
+}
+
+.header {
+    background-color: purple;
+}
+
+.bodyBackground {
+    background-image: url("../images/blackTwinkleBackground.gif");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+} 
